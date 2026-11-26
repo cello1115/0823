@@ -14,7 +14,7 @@
 
 ## 如何使用
 
-1. 下載本頁所在的 `skills/project-purpose-clarifier` 資料夾，保留其中的 `SKILL.md`。
+1. 點開 [SKILL.md](SKILL.md)，使用 GitHub 的下載按鈕儲存檔案，並放進新建的 `project-purpose-clarifier` 資料夾中。
 2. 依你使用的 AI Agent 文件，將整個資料夾放入它支援的個人或專案 Skill 位置。不同產品與版本的位置可能不同；必要時重新開啟對話。
 3. 開始新專案時，可以說：「請使用 project-purpose-clarifier，幫我釐清這個想法。」在支援明確呼叫 Skill 的環境，也可以輸入 `$project-purpose-clarifier`。
 
